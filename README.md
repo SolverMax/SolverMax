@@ -11,3 +11,4 @@ Our objective is to help you make better optimization models. We do this in two 
 ## Contact us
 
 If you want help with your own models, or if you would like to know more about how to adapt any of our models to your needs, then please [contact us](https://www.solvermax.com/contact).
+<a href="https://mathstodon.xyz/@SolverMax" rel="me"><img src="/images\mastodon32.png" alt="Mastodon" title="Mastodon"></a>
